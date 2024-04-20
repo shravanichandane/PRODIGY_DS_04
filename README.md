@@ -24,3 +24,5 @@ The analysis is conducted in Power BI, leveraging its capabilities to extract in
 
 ## Conclusion
 Analyzing sentiment patterns in social media data provides valuable insights into public opinion and attitudes towards specific topics or brands. By leveraging tools like Power BI, organizations can gain a deeper understanding of their audience and tailor their strategies accordingly.
+
+linkedin profile: www.linkedin.com/in/shravani-chandane-58ab062b6
